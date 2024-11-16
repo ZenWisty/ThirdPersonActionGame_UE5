@@ -1,7 +1,7 @@
 # ThirdPersonActionGame_UE5
 <style>
   img {
-    width: 60%;
+    width: 20%;
     height: auto;
   }
 </style>
