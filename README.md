@@ -2,15 +2,15 @@
 
 这个工程仅用于学习UE5动作游戏的实践，实现了一个第三人称动作游戏的基本要素，包括：<br>
 #### 1.人物移动，跳跃类动作
-![](./ZMarkDown/run.gif =100x100 "run")
+![](./ZMarkDown/run.gif "run")
 #### 2.人物站立在不平整地面上时，利用IK系统trace出合理的站立姿态
-![](./ZMarkDown/IK.gif =100x100 "IK")
+![](./ZMarkDown/IK.gif "IK")
 #### 3.武器的拾取，与多种攻击动作
-![](./ZMarkDown/Weapon.gif =100x100 "Weapon")
+![](./ZMarkDown/Weapon.gif "Weapon")
 #### 4.敌人角色和敌人动作模组的创建
-![](./ZMarkDown/Enemy.gif =100x100 "Enemy")
+![](./ZMarkDown/Enemy.gif "Enemy")
 #### 5.武器类的完善，以及利用武器攻击时的碰撞检测；在特定模组下有效碰撞区间的限定
-![](./ZMarkDown/BoxTrace.gif =100x100 "Trace Attack")
+![](./ZMarkDown/BoxTrace.gif "Trace Attack")
 
 待完善的内容：
 #### 1. 更智能的敌人索敌机制，和敌人的战斗AI
