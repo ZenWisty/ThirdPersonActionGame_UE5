@@ -1,5 +1,10 @@
 # ThirdPersonActionGame_UE5
-
+<style>
+  img {
+    width: 60%;
+    height: auto;
+  }
+</style>
 这个工程仅用于学习UE5动作游戏的实践，实现了一个第三人称动作游戏的基本要素，包括：<br>
 #### 1.人物移动，跳跃类动作
 ![](./ZMarkDown/run.gif "run")
